@@ -1,12 +1,17 @@
 ### Hi there, I'm Ajay Elamparithi 👋
 
-## I'm a Web developer!!
+👋 Hi, I'm Ajay Elamparithi – Software Development Engineer
+🔭 I'm a Full-stack Developer with 3+ years of hands-on experience building scalable enterprise applications
 
-- 🔭 I'm a self-taught Developer!!👨‍🎓
-- 🌱 I’m currently learning everything about web development 😎
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learning and coding!!😍💻
+🌱 Currently diving deeper into system design, Spring Boot microservices, and modern Angular (v18+)
+
+👯 I love collaborating on impactful products and contributing to tech communities
+
+💡 Passionate about clean code, architecture patterns, and performance optimization
+
+📚 Always learning — exploring cloud, DevOps, and design principles
+
+⚡ Fun fact: I enjoy solving real-world problems through code and mentoring budding developers! 💻✨
 
 
 ### Connect with me:
